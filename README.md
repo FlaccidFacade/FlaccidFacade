@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Zachary
 - 👀 I’m interested in software development, video games, and everything outdoors!
 - 🌱 I’m currently learning about everything I can.
-- 🌐 FlaccidFacade.com - To see what I am working on currently!
 - 📫 If you're interested in working on some of my projects. Reach me through email. Make sure the subject is "Collaboration Request" sent to zachary.glenn.turner@gmail.com
 
 <!---
