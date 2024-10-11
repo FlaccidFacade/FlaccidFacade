@@ -17,4 +17,4 @@
 - 👀📫 Travaillons ensemble ? Envoyez-moi un email !
   - [ ] 🤝🙌 l'objet: est "Demande de collaboration"
   - [ ] 👋👨 l'à: est "zachary.glenn.turner@gmail.com"
-  - [ ] 📚🎯 le message doit être détaillé avec sujet. ⚠️Je ne répondrai pas pour "Salut"
+  - [ ] 📚🎯 le message doit être détaillé avec sujet. ⚠️Je ne répondrai pas pour "Salut"⚠️
