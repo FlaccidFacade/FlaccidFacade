@@ -3,7 +3,6 @@
 - 🎓📏 Life long learner and novice teacher. Bachelors of Computer Engineering from University of Pittsburgh
 - 👨‍💻🎮🏒🏞️ Interests: development, video games, hockey, and outdoors !
 - 🌱🇫🇷 Learning French 
-- 🌲🌐 Development Engineer III
 - 👀📫 Work together ? Email me ! 
   - [ ] 🤝🙌 Make sure the subject is "Collaboration Request"
   - [ ] 👋👨 to field is "zachary.glenn.turner@gmail.com" 
@@ -13,7 +12,6 @@
 - 🎓📏 Apprenant tout au long de sa vie et enseignant novice. Diplômé en ingénierie de l'Université de Pittsburgh
 -  👨‍💻🎮🏒🏞️ J'aime: développement, jeux vidéo, hockey, et plein air !
 - 🌱🇫🇷 J'apprends le français
-- 🌲🌐 Development Engineer III
 - 👀📫 Aimeriez-vous travailler ensemble? Envoyez-moi un email !
   - [ ] 🤝🙌 l'objet: est "Demande de collaboration"
   - [ ] 👋👨 l'à: est "zachary.glenn.turner@gmail.com"
